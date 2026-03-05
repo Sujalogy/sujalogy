@@ -16,7 +16,7 @@ I am a passionate **Full Stack Developer** with over 2 years of professional exp
 - 🔭 **Currently working on:** Advanced Data Visualization tools and Node.js microservices.
 - 🌱 **Learning:** System Design and Cloud Architecture.
 - 💬 **Ask me about:** React, Next.js, SQL, and why clean code matters.
-- ⚡ **Fun Fact:** I'm equally fascinated by modern tech and the deep history of the Mughal Empire.
+- ⚡ **Fun Fact:** I'm equally fascinated by modern tech and ancient tech.
 
 ---
 
