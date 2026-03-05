@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Sujal Singh Thakur</h1>
-  <p><strong>Full Stack Developer | MCA Student | Problem Solver</strong></p>
+  <p><strong>Full Stack Developer | Problem Solver | With 2 Year of Experience</strong></p>
 </div>
 
 <div align="center">
